@@ -1,0 +1,15 @@
+site_name: GMI-Guidelines for Mental Illness
+
+theme:
+    name: material
+
+nav:
+  - 首页: index.md
+  - 疾病介绍:
+    - 抑郁症: depression.md
+    - 焦虑症: anxiety.md
+    - 躁狂症: mania.md
+    - 双向情感障碍: bipolar.md
+    - 人格分裂: personality_disorder.md
+    - 精神分裂症: schizophrenia.md
+  - 治疗资源: treatment.md
