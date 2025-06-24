@@ -12,6 +12,10 @@
 - **[双向情感障碍](bipolar.md)** - 双相情感障碍的复杂性和治疗
 - **[人格分裂](personality_disorder.md)** - 解离性身份障碍的理解和支持
 - **[精神分裂症](schizophrenia.md)** - 精神分裂症的症状和康复
+
+## 专业资源
+
+- **[诊断标准](diagnostic_criteria.md)** - DSM-5和ICD-10国际权威诊断标准详解
 - **[治疗资源](treatment.md)** - 各种治疗方法和资源信息
 
 ## 重要声明
