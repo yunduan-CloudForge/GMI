@@ -208,6 +208,8 @@
 
 ## 治疗方法
 
+> 💡 **详细治疗指南**：查看 **[人格分裂治疗方案](treatment-methods/personality_disorder.md)** 获取更全面的治疗策略和方法
+
 ### 心理治疗（主要治疗方法）
 
 **创伤聚焦治疗：**
@@ -470,6 +472,17 @@
 
 **误解：所有创伤都会导致DID**
 - 事实：DID需要特定的创伤条件和个体易感性
+
+## 相关资源
+
+### 治疗指南
+- **[人格分裂治疗方案](treatment-methods/personality_disorder.md)** - 详细的治疗方法和策略
+- **[人格分裂用药指导](medications/personality_disorder.md)** - 专业的药物治疗指南
+- **[治疗方法总览](treatment-methods/index.md)** - 了解各种治疗方法
+- **[药物分类总览](medications/index.md)** - 精神科药物分类和指南
+
+### 专业诊断标准
+- **[DSM-5和ICD-10诊断标准](diagnostic_criteria.md)** - 查看国际权威的解离性身份障碍诊断标准
 
 ---
 

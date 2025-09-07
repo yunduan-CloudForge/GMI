@@ -16,6 +16,8 @@
 ## 专业资源
 
 - **[诊断标准](diagnostic_criteria.md)** - DSM-5和ICD-10国际权威诊断标准详解
+- **[治疗方法](treatment-methods/index.md)** - 各种精神疾病的治疗方法和策略
+- **[用药指导](medications/index.md)** - 精神科药物分类和用药指南
 - **[治疗资源](treatment.md)** - 各种治疗方法和资源信息
 
 ## 重要声明

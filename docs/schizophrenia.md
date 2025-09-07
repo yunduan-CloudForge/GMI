@@ -283,6 +283,8 @@
 
 ## 治疗方法
 
+> 💡 **详细治疗指南**：查看 **[精神分裂症治疗方案](treatment-methods/schizophrenia.md)** 获取更全面的治疗策略和方法
+
 ### 药物治疗（主要治疗方法）
 
 **抗精神病药物：**
@@ -641,10 +643,16 @@
 - 家庭干预
 - 社区预防
 
-## 专业诊断标准
+## 相关资源
 
-如需了解精神分裂症的专业诊断标准，请参考：
+### 专业诊断标准
 - **[DSM-5和ICD-10诊断标准](diagnostic_criteria.md)** - 查看国际权威的精神分裂症诊断标准
+
+### 治疗指南
+- **[精神分裂症治疗方案](treatment-methods/schizophrenia.md)** - 详细的治疗方法和策略
+- **[精神分裂症用药指导](medications/schizophrenia.md)** - 专业的药物治疗指南
+- **[治疗方法总览](treatment-methods/index.md)** - 了解各种治疗方法
+- **[药物分类总览](medications/index.md)** - 精神科药物分类和指南
 
 ---
 

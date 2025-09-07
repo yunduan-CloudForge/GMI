@@ -2,6 +2,13 @@ site_name: GMI-精神疾病指南
 
 theme:
     name: material
+    features:
+      - navigation.tabs
+      - navigation.sections
+      - navigation.expand
+      - navigation.top
+      - search.highlight
+      - search.share
 
 nav:
   - 首页: index.md
@@ -12,5 +19,31 @@ nav:
     - 双向情感障碍: bipolar.md
     - 人格分裂: personality_disorder.md
     - 精神分裂症: schizophrenia.md
+  - 治疗方法:
+    - 治疗方法总览: treatment-methods/index.md
+    - 抑郁症治疗: treatment-methods/depression.md
+    - 焦虑症治疗: treatment-methods/anxiety.md
+    - 躁狂症治疗: treatment-methods/mania.md
+    - 双向情感障碍治疗: treatment-methods/bipolar.md
+    - 人格分裂治疗: treatment-methods/personality_disorder.md
+    - 精神分裂症治疗: treatment-methods/schizophrenia.md
+  - 药物指南:
+    - 药物分类总览: medications/index.md
+    - 抑郁症用药: medications/depression.md
+    - 焦虑症用药: medications/anxiety.md
+    - 躁狂症用药: medications/mania.md
+    - 双向情感障碍用药: medications/bipolar.md
+    - 人格分裂用药: medications/personality_disorder.md
+    - 精神分裂症用药: medications/schizophrenia.md
   - 诊断标准: diagnostic_criteria.md
   - 治疗资源: treatment.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
